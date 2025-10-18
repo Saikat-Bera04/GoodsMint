@@ -2,7 +2,7 @@
 
 A lightweight, efficient NFT marketplace specifically designed for physical goods and merchandise. Built with Solidity and optimized for low gas costs.
 
-![Marketplace Banner](https://via.placeholder.com/1200x400/6366f1/ffffff?text=Merchandise+NFT+Marketplace)
+<img width="1710" height="888" alt="Screenshot 2025-10-18 at 12 47 45 PM" src="https://github.com/user-attachments/assets/a78f150e-f760-4cda-ae4e-e506f990604f" />
 
 ## 📋 Overview
 
